@@ -1,0 +1,1135 @@
+{
+  "packages": {
+    "cors": {
+      "name": "cors",
+      "version": "2.8.6",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\cors",
+      "depth": 0,
+      "dependencyType": "dependencies",
+      "urls": {},
+      "description": "Node.js CORS middleware",
+      "author": "Troy Goode <troygoode@gmail.com> (https://github.com/troygoode/)",
+      "license": "MIT",
+      "keywords": [
+        "cors",
+        "express",
+        "connect",
+        "middleware"
+      ],
+      "repository": "expressjs/cors",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "express": {
+      "name": "express",
+      "version": "5.2.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\express",
+      "depth": 0,
+      "dependencyType": "dependencies",
+      "urls": {
+        "homepage": "https://expressjs.com/",
+        "website": "https://expressjs.com/"
+      },
+      "description": "Fast, unopinionated, minimalist web framework",
+      "author": "TJ Holowaychuk <tj@vision-media.ca>",
+      "license": "MIT",
+      "keywords": [
+        "express",
+        "framework",
+        "sinatra",
+        "web",
+        "http",
+        "rest",
+        "restful",
+        "router",
+        "app",
+        "api"
+      ],
+      "repository": "expressjs/express",
+      "homepage": "https://expressjs.com/",
+      "bugs": "",
+      "lastModified": 1775717477232
+    },
+    "mongoose": {
+      "name": "mongoose",
+      "version": "9.4.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\mongoose",
+      "depth": 0,
+      "dependencyType": "dependencies",
+      "urls": {
+        "homepage": "https://mongoosejs.com",
+        "repository": "https://github.com/Automattic/mongoose.git",
+        "bugs": "https://github.com/Automattic/mongoose/issues/new",
+        "website": "https://mongoosejs.com"
+      },
+      "description": "Mongoose MongoDB ODM",
+      "author": "Guillermo Rauch <guillermo@learnboost.com>",
+      "license": "MIT",
+      "keywords": [
+        "mongodb",
+        "document",
+        "model",
+        "schema",
+        "database",
+        "odm",
+        "data",
+        "datastore",
+        "query",
+        "nosql",
+        "orm",
+        "db"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/Automattic/mongoose.git"
+      },
+      "homepage": "https://mongoosejs.com",
+      "bugs": {
+        "url": "https://github.com/Automattic/mongoose/issues/new"
+      },
+      "lastModified": 1775717477593
+    },
+    "object-assign": {
+      "name": "object-assign",
+      "version": "4.1.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\object-assign",
+      "depth": 1,
+      "parent": "cors",
+      "urls": {},
+      "description": "ES2015 `Object.assign()` ponyfill",
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com"
+      },
+      "license": "MIT",
+      "keywords": [
+        "object",
+        "assign",
+        "extend",
+        "properties",
+        "es2015",
+        "ecmascript",
+        "harmony",
+        "ponyfill",
+        "prollyfill",
+        "polyfill",
+        "shim",
+        "browser"
+      ],
+      "repository": "sindresorhus/object-assign",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477133
+    },
+    "vary": {
+      "name": "vary",
+      "version": "1.1.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\vary",
+      "depth": 1,
+      "parent": "cors",
+      "urls": {},
+      "description": "Manipulate the HTTP Vary header",
+      "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+      "license": "MIT",
+      "keywords": [
+        "http",
+        "res",
+        "vary"
+      ],
+      "repository": "jshttp/vary",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477134
+    },
+    "accepts": {
+      "name": "accepts",
+      "version": "2.0.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\accepts",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Higher-level content negotiation",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "content",
+        "negotiation",
+        "accept",
+        "accepts"
+      ],
+      "repository": "jshttp/accepts",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "body-parser": {
+      "name": "body-parser",
+      "version": "2.2.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\body-parser",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Node.js body parsing middleware",
+      "author": "",
+      "license": "MIT",
+      "keywords": [],
+      "repository": "expressjs/body-parser",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477235
+    },
+    "content-disposition": {
+      "name": "content-disposition",
+      "version": "1.1.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\content-disposition",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Create and parse Content-Disposition header",
+      "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+      "license": "MIT",
+      "keywords": [
+        "content-disposition",
+        "http",
+        "rfc6266",
+        "res"
+      ],
+      "repository": "jshttp/content-disposition",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "cookie": {
+      "name": "cookie",
+      "version": "0.7.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\cookie",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "HTTP server cookie parsing and serialization",
+      "author": "Roman Shtylman <shtylman@gmail.com>",
+      "license": "MIT",
+      "keywords": [
+        "cookie",
+        "cookies"
+      ],
+      "repository": "jshttp/cookie",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "cookie-signature": {
+      "name": "cookie-signature",
+      "version": "1.2.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\cookie-signature",
+      "depth": 1,
+      "parent": "express",
+      "urls": {
+        "repository": "https://github.com/visionmedia/node-cookie-signature"
+      },
+      "description": "Sign and unsign cookies",
+      "author": "TJ Holowaychuk <tj@learnboost.com>",
+      "license": "MIT",
+      "keywords": [
+        "cookie",
+        "sign",
+        "unsign"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/visionmedia/node-cookie-signature.git"
+      },
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "depd": {
+      "name": "depd",
+      "version": "2.0.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\depd",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Deprecate all the things",
+      "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+      "license": "MIT",
+      "keywords": [
+        "deprecate",
+        "deprecated"
+      ],
+      "repository": "dougwilson/nodejs-depd",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477133
+    },
+    "encodeurl": {
+      "name": "encodeurl",
+      "version": "2.0.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\encodeurl",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Encode a URL to a percent-encoded form, excluding already-encoded sequences",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "encode",
+        "encodeurl",
+        "url"
+      ],
+      "repository": "pillarjs/encodeurl",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "escape-html": {
+      "name": "escape-html",
+      "version": "1.0.3",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\escape-html",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Escape string for use in HTML",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "escape",
+        "html",
+        "utility"
+      ],
+      "repository": "component/escape-html",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477132
+    },
+    "etag": {
+      "name": "etag",
+      "version": "1.8.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\etag",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Create simple HTTP ETags",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "etag",
+        "http",
+        "res"
+      ],
+      "repository": "jshttp/etag",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477133
+    },
+    "finalhandler": {
+      "name": "finalhandler",
+      "version": "2.1.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\finalhandler",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Node.js final http responder",
+      "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+      "license": "MIT",
+      "keywords": [],
+      "repository": "pillarjs/finalhandler",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "fresh": {
+      "name": "fresh",
+      "version": "2.0.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\fresh",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "HTTP response freshness testing",
+      "author": "TJ Holowaychuk <tj@vision-media.ca> (http://tjholowaychuk.com)",
+      "license": "MIT",
+      "keywords": [
+        "fresh",
+        "http",
+        "conditional",
+        "cache"
+      ],
+      "repository": "jshttp/fresh",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "merge-descriptors": {
+      "name": "merge-descriptors",
+      "version": "2.0.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\merge-descriptors",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Merge objects using their property descriptors",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "merge",
+        "descriptors",
+        "object",
+        "property",
+        "properties",
+        "merging",
+        "getter",
+        "setter"
+      ],
+      "repository": "sindresorhus/merge-descriptors",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "once": {
+      "name": "once",
+      "version": "1.4.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\once",
+      "depth": 1,
+      "parent": "express",
+      "urls": {
+        "repository": "https://github.com/isaacs/once"
+      },
+      "description": "Run a function exactly one time",
+      "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+      "license": "ISC",
+      "keywords": [
+        "once",
+        "function",
+        "one",
+        "single"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/isaacs/once"
+      },
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477131
+    },
+    "proxy-addr": {
+      "name": "proxy-addr",
+      "version": "2.0.7",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\proxy-addr",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Determine address of proxied request",
+      "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+      "license": "MIT",
+      "keywords": [
+        "ip",
+        "proxy",
+        "x-forwarded-for"
+      ],
+      "repository": "jshttp/proxy-addr",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "range-parser": {
+      "name": "range-parser",
+      "version": "1.2.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\range-parser",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Range header field string parser",
+      "author": "TJ Holowaychuk <tj@vision-media.ca> (http://tjholowaychuk.com)",
+      "license": "MIT",
+      "keywords": [
+        "range",
+        "parser",
+        "http"
+      ],
+      "repository": "jshttp/range-parser",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477131
+    },
+    "router": {
+      "name": "router",
+      "version": "2.2.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\router",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Simple middleware-style router",
+      "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+      "license": "MIT",
+      "keywords": [],
+      "repository": "pillarjs/router",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477192
+    },
+    "send": {
+      "name": "send",
+      "version": "1.2.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\send",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Better streaming static file server with Range and conditional-GET support",
+      "author": "TJ Holowaychuk <tj@vision-media.ca>",
+      "license": "MIT",
+      "keywords": [
+        "static",
+        "file",
+        "server"
+      ],
+      "repository": "pillarjs/send",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "serve-static": {
+      "name": "serve-static",
+      "version": "2.2.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\serve-static",
+      "depth": 1,
+      "parent": "express",
+      "urls": {},
+      "description": "Serve static files",
+      "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+      "license": "MIT",
+      "keywords": [],
+      "repository": "expressjs/serve-static",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "kareem": {
+      "name": "kareem",
+      "version": "3.2.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\kareem",
+      "depth": 1,
+      "parent": "mongoose",
+      "urls": {
+        "repository": "https://github.com/mongoosejs/kareem.git"
+      },
+      "description": "Next-generation take on pre/post function hooks",
+      "author": "Valeri Karpov <val@karpov.io>",
+      "license": "Apache-2.0",
+      "keywords": [],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/mongoosejs/kareem.git"
+      },
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477272
+    },
+    "mongodb": {
+      "name": "mongodb",
+      "version": "7.1.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\mongodb",
+      "depth": 1,
+      "parent": "mongoose",
+      "urls": {
+        "homepage": "https://github.com/mongodb/node-mongodb-native",
+        "bugs": "https://jira.mongodb.org/projects/NODE/issues/",
+        "website": "https://github.com/mongodb/node-mongodb-native"
+      },
+      "description": "The official MongoDB driver for Node.js",
+      "author": {
+        "name": "The MongoDB NodeJS Team",
+        "email": "dbx-node@mongodb.com"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "mongodb",
+        "driver",
+        "official"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:mongodb/node-mongodb-native.git"
+      },
+      "homepage": "https://github.com/mongodb/node-mongodb-native",
+      "bugs": {
+        "url": "https://jira.mongodb.org/projects/NODE/issues/"
+      },
+      "lastModified": 1775717477447
+    },
+    "mpath": {
+      "name": "mpath",
+      "version": "0.9.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\mpath",
+      "depth": 1,
+      "parent": "mongoose",
+      "urls": {
+        "repository": "https://github.com/aheckmann/mpath.git"
+      },
+      "description": "{G,S}et object values using MongoDB-like path notation",
+      "author": "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
+      "license": "MIT",
+      "keywords": [
+        "mongodb",
+        "path",
+        "get",
+        "set"
+      ],
+      "repository": "git://github.com/aheckmann/mpath.git",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477216
+    },
+    "mquery": {
+      "name": "mquery",
+      "version": "6.0.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\mquery",
+      "depth": 1,
+      "parent": "mongoose",
+      "urls": {
+        "homepage": "https://github.com/aheckmann/mquery/",
+        "repository": "https://github.com/aheckmann/mquery.git",
+        "bugs": "https://github.com/aheckmann/mquery/issues/new",
+        "website": "https://github.com/aheckmann/mquery/"
+      },
+      "description": "Expressive query building for MongoDB",
+      "author": "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
+      "license": "MIT",
+      "keywords": [
+        "mongodb",
+        "query",
+        "builder"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/aheckmann/mquery.git"
+      },
+      "homepage": "https://github.com/aheckmann/mquery/",
+      "bugs": {
+        "url": "https://github.com/aheckmann/mquery/issues/new"
+      },
+      "lastModified": 1775717477239
+    },
+    "sift": {
+      "name": "sift",
+      "version": "17.1.3",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\sift",
+      "depth": 1,
+      "parent": "mongoose",
+      "urls": {},
+      "description": "MongoDB query filtering in JavaScript",
+      "author": {
+        "name": "Craig Condon",
+        "email": "craig.j.condon@gmail.com"
+      },
+      "license": "MIT",
+      "keywords": [],
+      "repository": "crcn/sift.js",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477217
+    },
+    "mime-types": {
+      "name": "mime-types",
+      "version": "3.0.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\mime-types",
+      "depth": 2,
+      "parent": "accepts",
+      "urls": {},
+      "description": "The ultimate javascript content-type utility.",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "mime",
+        "types"
+      ],
+      "repository": "jshttp/mime-types",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "negotiator": {
+      "name": "negotiator",
+      "version": "1.0.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\negotiator",
+      "depth": 2,
+      "parent": "accepts",
+      "urls": {},
+      "description": "HTTP content negotiation",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "http",
+        "content negotiation",
+        "accept",
+        "accept-language",
+        "accept-encoding",
+        "accept-charset"
+      ],
+      "repository": "jshttp/negotiator",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477213
+    },
+    "bytes": {
+      "name": "bytes",
+      "version": "3.1.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\bytes",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {},
+      "description": "Utility to parse a string bytes to bytes and vice-versa",
+      "author": "TJ Holowaychuk <tj@vision-media.ca> (http://tjholowaychuk.com)",
+      "license": "MIT",
+      "keywords": [
+        "byte",
+        "bytes",
+        "utility",
+        "parse",
+        "parser",
+        "convert",
+        "converter"
+      ],
+      "repository": "visionmedia/bytes.js",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "content-type": {
+      "name": "content-type",
+      "version": "1.0.5",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\content-type",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {},
+      "description": "Create and parse HTTP Content-Type header",
+      "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+      "license": "MIT",
+      "keywords": [
+        "content-type",
+        "http",
+        "req",
+        "res",
+        "rfc7231"
+      ],
+      "repository": "jshttp/content-type",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "debug": {
+      "name": "debug",
+      "version": "4.4.3",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\debug",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {
+        "repository": "https://github.com/debug-js/debug.git"
+      },
+      "description": "Lightweight debugging utility for Node.js and the browser",
+      "author": "Josh Junon (https://github.com/qix-)",
+      "license": "MIT",
+      "keywords": [
+        "debug",
+        "log",
+        "debugger"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/debug-js/debug.git"
+      },
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477192
+    },
+    "http-errors": {
+      "name": "http-errors",
+      "version": "2.0.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\http-errors",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {},
+      "description": "Create HTTP error objects",
+      "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+      "license": "MIT",
+      "keywords": [
+        "http",
+        "error"
+      ],
+      "repository": "jshttp/http-errors",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "iconv-lite": {
+      "name": "iconv-lite",
+      "version": "0.7.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\iconv-lite",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {
+        "homepage": "https://github.com/pillarjs/iconv-lite",
+        "repository": "https://github.com/pillarjs/iconv-lite",
+        "bugs": "https://github.com/pillarjs/iconv-lite/issues",
+        "website": "https://github.com/pillarjs/iconv-lite"
+      },
+      "description": "Convert character encodings in pure javascript.",
+      "author": "Alexander Shtuchkin <ashtuchkin@gmail.com>",
+      "license": "MIT",
+      "keywords": [
+        "iconv",
+        "convert",
+        "charset",
+        "icu"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/pillarjs/iconv-lite.git"
+      },
+      "homepage": "https://github.com/pillarjs/iconv-lite",
+      "bugs": "https://github.com/pillarjs/iconv-lite/issues",
+      "lastModified": 1775717477294
+    },
+    "on-finished": {
+      "name": "on-finished",
+      "version": "2.4.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\on-finished",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {},
+      "description": "Execute a callback when a request closes, finishes, or errors",
+      "author": "",
+      "license": "MIT",
+      "keywords": [],
+      "repository": "jshttp/on-finished",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "qs": {
+      "name": "qs",
+      "version": "6.15.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\qs",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {
+        "homepage": "https://github.com/ljharb/qs",
+        "repository": "https://github.com/ljharb/qs",
+        "website": "https://github.com/ljharb/qs"
+      },
+      "description": "A querystring parser that supports nesting and arrays, with a depth limit",
+      "author": "",
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "querystring",
+        "qs",
+        "query",
+        "url",
+        "parse",
+        "stringify"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/ljharb/qs.git"
+      },
+      "homepage": "https://github.com/ljharb/qs",
+      "bugs": "",
+      "lastModified": 1775717477272
+    },
+    "raw-body": {
+      "name": "raw-body",
+      "version": "3.0.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\raw-body",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {},
+      "description": "Get and validate the raw body of a readable stream.",
+      "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+      "license": "MIT",
+      "keywords": [],
+      "repository": "stream-utils/raw-body",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "type-is": {
+      "name": "type-is",
+      "version": "2.0.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\type-is",
+      "depth": 2,
+      "parent": "body-parser",
+      "urls": {},
+      "description": "Infer the content-type of a request.",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "content",
+        "type",
+        "checking"
+      ],
+      "repository": "jshttp/type-is",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "parseurl": {
+      "name": "parseurl",
+      "version": "1.3.3",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\parseurl",
+      "depth": 2,
+      "parent": "finalhandler",
+      "urls": {},
+      "description": "parse a url with memoization",
+      "author": "",
+      "license": "MIT",
+      "keywords": [],
+      "repository": "pillarjs/parseurl",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477132
+    },
+    "statuses": {
+      "name": "statuses",
+      "version": "2.0.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\statuses",
+      "depth": 2,
+      "parent": "finalhandler",
+      "urls": {},
+      "description": "HTTP status utility",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "http",
+        "status",
+        "code"
+      ],
+      "repository": "jshttp/statuses",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "wrappy": {
+      "name": "wrappy",
+      "version": "1.0.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\wrappy",
+      "depth": 2,
+      "parent": "once",
+      "urls": {
+        "homepage": "https://github.com/npm/wrappy",
+        "repository": "https://github.com/npm/wrappy",
+        "bugs": "https://github.com/npm/wrappy/issues",
+        "website": "https://github.com/npm/wrappy"
+      },
+      "description": "Callback wrapping utility",
+      "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+      "license": "ISC",
+      "keywords": [],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/npm/wrappy"
+      },
+      "homepage": "https://github.com/npm/wrappy",
+      "bugs": {
+        "url": "https://github.com/npm/wrappy/issues"
+      },
+      "lastModified": 1775717477129
+    },
+    "forwarded": {
+      "name": "forwarded",
+      "version": "0.2.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\forwarded",
+      "depth": 2,
+      "parent": "proxy-addr",
+      "urls": {},
+      "description": "Parse HTTP X-Forwarded-For header",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "x-forwarded-for",
+        "http",
+        "req"
+      ],
+      "repository": "jshttp/forwarded",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477143
+    },
+    "ipaddr.js": {
+      "name": "ipaddr.js",
+      "version": "1.9.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\ipaddr.js",
+      "depth": 2,
+      "parent": "proxy-addr",
+      "urls": {
+        "repository": "https://github.com/whitequark/ipaddr.js"
+      },
+      "description": "A library for manipulating IPv4 and IPv6 addresses in JavaScript.",
+      "author": "whitequark <whitequark@whitequark.org>",
+      "license": "MIT",
+      "keywords": [
+        "ip",
+        "ipv4",
+        "ipv6"
+      ],
+      "repository": "git://github.com/whitequark/ipaddr.js",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477129
+    },
+    "is-promise": {
+      "name": "is-promise",
+      "version": "4.0.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\is-promise",
+      "depth": 2,
+      "parent": "router",
+      "urls": {
+        "repository": "https://github.com/then/is-promise"
+      },
+      "description": "Test whether an object looks like a promises-a+ promise",
+      "author": "ForbesLindesay",
+      "license": "MIT",
+      "keywords": [],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/then/is-promise.git"
+      },
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477143
+    },
+    "path-to-regexp": {
+      "name": "path-to-regexp",
+      "version": "8.4.2",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\path-to-regexp",
+      "depth": 2,
+      "parent": "router",
+      "urls": {
+        "repository": "https://github.com/pillarjs/path-to-regexp"
+      },
+      "description": "Express style path to RegExp utility",
+      "author": "",
+      "license": "MIT",
+      "keywords": [
+        "express",
+        "regexp",
+        "route",
+        "routing"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/pillarjs/path-to-regexp.git"
+      },
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477159
+    },
+    "ms": {
+      "name": "ms",
+      "version": "2.1.3",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\ms",
+      "depth": 2,
+      "parent": "send",
+      "urls": {},
+      "description": "Tiny millisecond conversion utility",
+      "author": "",
+      "license": "MIT",
+      "keywords": [],
+      "repository": "vercel/ms",
+      "homepage": "",
+      "bugs": "",
+      "lastModified": 1775717477143
+    },
+    "@mongodb-js/saslprep": {
+      "name": "@mongodb-js/saslprep",
+      "version": "1.4.6",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\@mongodb-js\\saslprep",
+      "depth": 2,
+      "parent": "mongodb",
+      "urls": {
+        "homepage": "https://github.com/mongodb-js/devtools-shared/tree/main/packages/saslprep",
+        "repository": "https://github.com/mongodb-js/devtools-shared",
+        "bugs": "https://jira.mongodb.org/projects/COMPASS/issues",
+        "website": "https://github.com/mongodb-js/devtools-shared/tree/main/packages/saslprep"
+      },
+      "description": "SASLprep: Stringprep Profile for User Names and Passwords, rfc4013",
+      "author": "Dmitry Tsvettsikh <me@reklatsmasters.com>",
+      "license": "MIT",
+      "keywords": [
+        "sasl",
+        "saslprep",
+        "stringprep",
+        "rfc4013",
+        "4013"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/mongodb-js/devtools-shared.git"
+      },
+      "homepage": "https://github.com/mongodb-js/devtools-shared/tree/main/packages/saslprep",
+      "bugs": {
+        "url": "https://jira.mongodb.org/projects/COMPASS/issues",
+        "email": "compass@mongodb.com"
+      },
+      "lastModified": 1775717477269
+    },
+    "bson": {
+      "name": "bson",
+      "version": "7.2.0",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\bson",
+      "depth": 2,
+      "parent": "mongodb",
+      "urls": {
+        "bugs": "https://jira.mongodb.org/projects/NODE/issues/"
+      },
+      "description": "A bson parser for node.js and the browser",
+      "author": {
+        "name": "The MongoDB NodeJS Team",
+        "email": "dbx-node@mongodb.com"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "mongodb",
+        "bson",
+        "parser"
+      ],
+      "repository": "mongodb/js-bson",
+      "homepage": "",
+      "bugs": {
+        "url": "https://jira.mongodb.org/projects/NODE/issues/"
+      },
+      "lastModified": 1775717477243
+    },
+    "mongodb-connection-string-url": {
+      "name": "mongodb-connection-string-url",
+      "version": "7.0.1",
+      "path": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)\\backend\\node_modules\\mongodb-connection-string-url",
+      "depth": 2,
+      "parent": "mongodb",
+      "urls": {
+        "homepage": "https://github.com/mongodb-js/mongodb-connection-string-url",
+        "repository": "https://github.com/mongodb-js/mongodb-connection-string-url",
+        "bugs": "https://github.com/mongodb-js/mongodb-connection-string-url/issues",
+        "website": "https://github.com/mongodb-js/mongodb-connection-string-url"
+      },
+      "description": "MongoDB connection strings, based on the WhatWG URL API",
+      "author": "",
+      "license": "Apache-2.0",
+      "keywords": [
+        "password",
+        "prompt",
+        "tty"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/mongodb-js/mongodb-connection-string-url.git"
+      },
+      "homepage": "https://github.com/mongodb-js/mongodb-connection-string-url",
+      "bugs": {
+        "url": "https://github.com/mongodb-js/mongodb-connection-string-url/issues"
+      },
+      "lastModified": 1775717477184
+    }
+  },
+  "lastFullScan": 1775726521114,
+  "workspacePath": "c:\\Users\\CPU 74\\Downloads\\mern-final (1)"
+}
